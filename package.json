@@ -1,7 +1,11 @@
 {
   "name": "root",
-  "private": false,
+  "private": true,
   "devDependencies": {
-    "lerna": "^3.18.4"
-  }
+    "lerna": "^3.18.4",
+    "lerna-changelog": "^0.8.2"
+  },
+  "dependencies": {},
+  "npmClient": "yarn",
+  "version": "independent"
 }

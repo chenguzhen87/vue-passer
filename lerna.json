@@ -2,5 +2,17 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.5"
+  "version": "0.0.5",
+  "changelog": {
+    "repo": "vue-passer",
+    "labels": {
+      "PR: New Feature": ":rocket: New Features",
+      "PR: Breaking Change": ":boom: Breaking Changes",
+      "PR: Bug Fix": ":bug: Bug Fix",
+      "PR: Documentation": ":memo: Documentation",
+      "PR: Internal": ":house: Internal",
+      "PR: Underlying Tools": ":hammer: Underlying Tools"
+    },
+    "cacheDir": ".changelog"
+  }
 }
