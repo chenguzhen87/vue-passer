@@ -1,12 +1,11 @@
 {
-  "name": "window",
-  "version": "0.0.2",
+  "name": "tree",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "gitHead": "1b710249827bc1167e9fa958443329da5097b8e6"
+  "license": "ISC"
 }
