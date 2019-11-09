@@ -1,5 +1,5 @@
 {
-  "name": "tree",
+  "name": "@vue-passer/tree",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "de7ab32995ba19f14fed62117c6f99073c5ce1e8"
 }
